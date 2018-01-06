@@ -1,0 +1,28 @@
+{
+  "name": "hampshire-schooldates-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Retrieves information about this school years dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crshnburn/hampshire-schooldates-skill.git"
+  },
+  "author": "Andrew Smithson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/crshnburn/hampshire-schooldates-skill/issues"
+  },
+  "homepage": "https://github.com/crshnburn/hampshire-schooldates-skill#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.10",
+    "ical": "^0.5.0"
+  },
+  "devDependencies": {
+    "alexa-skill-tester": "^1.1.2",
+    "mocha": "^4.1.0"
+  }
+}

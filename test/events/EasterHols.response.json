@@ -1,0 +1,12 @@
+{
+    "version": "1.0",
+    "response": {
+      "shouldEndSession": true,
+      "outputSpeech": {
+        "type": "SSML",
+        "ssml": "<speak> The Easter holidays start on 30 March until 16 April </speak>"
+      }
+    },
+    "sessionAttributes": {},
+    "userAgent": "ask-nodejs/1.0.24 Node/v8.9.3"
+  }
